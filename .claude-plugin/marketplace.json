@@ -1,0 +1,13 @@
+{
+  "name": "ai-guy-gtm",
+  "owner": {
+    "name": "AI Guy"
+  },
+  "plugins": [
+    {
+      "name": "ai-guy-gtm-workforce",
+      "source": "./",
+      "description": "Cold email, CRM conversations and contextual follow-through"
+    }
+  ]
+}
